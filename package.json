@@ -1,0 +1,19 @@
+{
+  "name": "alexa-norbiton-station",
+  "version": "1.0.0",
+  "description": "Train information from Norbiton to London Waterloo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhoward7/alexa-norbiton-station.git"
+  },
+  "author": "Tom Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomhoward7/alexa-norbiton-station/issues"
+  },
+  "homepage": "https://github.com/tomhoward7/alexa-norbiton-station#readme"
+}
